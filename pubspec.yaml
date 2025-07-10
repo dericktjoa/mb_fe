@@ -1,0 +1,54 @@
+name: mb_fe
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  fl_chart: ^0.66.0
+  flutter_login: ^5.1.0
+  font_awesome_flutter: ^10.8.0
+  model_viewer_plus: ^1.9.3
+  image_picker: ^1.1.2
+  google_fonts: ^6.2.1
+  collection: ^1.19.1
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/Panda.glb
+    - images/Rhinoceros.glb
+    - images/Tiger.glb
+    - lib/assets/images/badak.jpeg
+    - lib/assets/images/panda.jpeg
+    - lib/assets/images/harimau.jpeg
+    - lib/assets/images/login_bg.jpg
+    - lib/assets/images/eagle.jpg
+    - lib/assets/images/tiger.jpg
+    - lib/assets/images/foto_profil.jpeg
+    - lib/assets/images/user.png
+    - lib/assets/images/lock.png
+    - lib/assets/images/lock_dark.png
+    - lib/assets/images/lock_light.png
+    - lib/assets/images/google.png
+    - lib/assets/images/instagram.png
+    - lib/assets/fonts/
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: lib/assets/fonts/OpenSans-Regular.ttf
+        - asset: lib/assets/fonts/OpenSans-Bold.ttf
+        - asset: lib/assets/fonts/OpenSans-Italic.ttf
+        - asset: lib/assets/fonts/OpenSans-SemiBold.ttf
