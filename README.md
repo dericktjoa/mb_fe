@@ -26,7 +26,7 @@
   [Klik di sini untuk mengakses file APK dan video](https://mikroskilacid-my.sharepoint.com/:f:/g/personal/derick_tjoa_students_mikroskil_ac_id/EnJia-UBJiNLje7OcPBferYB1EZ8-gRi7wMum0UqUxVilw?e=LWZZpe)
 
 - 🔗 **Link Video Demo:**  
-  *(Belum disediakan – tambahkan jika ada)*
+  [Klik disini untuk mengakses video demo](https://mikroskilacid-my.sharepoint.com/:v:/g/personal/derick_tjoa_students_mikroskil_ac_id/EbR9_ZY3kMNNnnFrvcAKgCwBdWT6YZB_iQX8IvkfLTVJKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SGP07H)
 
 ---
 
